@@ -22,4 +22,3 @@ nav_order: 1
 
 ## Build from source
 
----
