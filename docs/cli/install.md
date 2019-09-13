@@ -12,7 +12,7 @@ nav_order: 1
 
 ## Precompiled binary
 
-Get the latest precompiled binaries for Linux and Mac Os X from the [download page](https://github.com/Standardized-Objects/standardized/releases)
+Get the latest precompiled binaries from the [download page](https://github.com/Standardized-Objects/standardized/releases)
 
 ---
 
@@ -20,7 +20,7 @@ Get the latest precompiled binaries for Linux and Mac Os X from the [download pa
 
 ### Clone
 
-    git clone git@github.com:Standardized-Objects/standardized.git $GOPATH/src/standardized
+    git clone https://github.com/Standardized-Objects/standardized.git $GOPATH/src/standardized
 
 ### Install deps
 
