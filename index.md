@@ -22,4 +22,19 @@ When we create policies to standardize things like the structure of our company'
 
 With Standardized Objects, our policies are defined as code and users have a simple way to create objects standardized by the company and integrate them into their CI / CD flows.
 
----
+    ~ standardized -h
+    
+    Standardize your files and directory trees
+    
+    Usage:
+      standardized [command]
+      
+    Available Commands:
+      help        Help about any command
+      object      List and create Objects
+      repo        Manage Object Definitions repositories
+
+    Flags:
+      -h, --help   help for standardized
+
+    Use "standardized [command] --help" for more information about a command.
