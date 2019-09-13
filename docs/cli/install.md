@@ -19,16 +19,15 @@ Get the latest precompiled binaries for Linux and Mac Os X from the [download pa
 ## Build from source
 
 ### Clone
-```bash
-$ git clone git@github.com:Standardized-Objects/standardized.git $GOPATH/src/standardized
-```
+
+    git clone git@github.com:Standardized-Objects/standardized.git $GOPATH/src/standardized
+
 ### Install deps
-```bash
-$ cd $GOPATH/src/standardized
-$ dep ensure
-```
+
+    cd $GOPATH/src/standardized
+    dep ensure
+
 ### Build & Install in $GOBIN
-```bash
-$ cd $GOPATH/src/standardized
-$ go install
-```
+
+    cd $GOPATH/src/standardized
+    go install
