@@ -14,15 +14,15 @@ nav_order: 2
 
 ### Public repository
 
-    standardized repo add example https://github.com/example/example.git
+    standardized repo add example https://github.com/example/objects.git
 
 ### Private GitHub repository
 
-    standardized repo add example https://github.com/example/example.git -t <PERSONAL ACCESS TOKEN>
+    standardized repo add example https://github.com/example/objects.git -t <PERSONAL ACCESS TOKEN>
 
 ### Private SSH repository
 
-    standardized repo add example https://github.com/example/example.git --ssh
+    standardized repo add example git@github.com:example/objects.git --ssh
 
 ---
 
