@@ -8,5 +8,4 @@ permalink: /docs/objects
 
 # Object Definitions
 
-{{ page.description }}
 {: .fs-6 .fw-300 }

@@ -8,5 +8,4 @@ permalink: /docs/cli
 
 # Standardized CLI
 
-{{ page.description }}
 {: .fs-6 .fw-300 }
