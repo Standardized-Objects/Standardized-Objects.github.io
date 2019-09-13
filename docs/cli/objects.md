@@ -5,7 +5,7 @@ parent: CLI
 nav_order: 3
 ---
 
-# Create standardized objects
+# Create Standardized Objects
 {: .no_toc }
 
 ---
