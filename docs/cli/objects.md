@@ -16,5 +16,5 @@ nav_order: 3
 
 ## Create object
 
-    standardized object create repo_name/object
+    standardized object create example/object
 
