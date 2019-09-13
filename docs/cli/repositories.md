@@ -16,11 +16,11 @@ nav_order: 2
 
     standardized repo add example https://github.com/example/example.git
 
-### GitHub repository
+### Private GitHub repository
 
     standardized repo add example https://github.com/example/example.git -t <PERSONAL ACCESS TOKEN>
 
-### SSH repository
+### Private SSH repository
 
     standardized repo add example https://github.com/example/example.git --ssh
 
