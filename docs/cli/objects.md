@@ -10,7 +10,7 @@ nav_order: 3
 
 ---
 
-## List Objects Definitions
+## List objects definitions
 
     standardized object list
 
