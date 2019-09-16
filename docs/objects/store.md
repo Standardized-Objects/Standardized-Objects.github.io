@@ -30,8 +30,6 @@ Create a GIT repository to store your objects.
         └── templates
             └── your_templates_here.txt
 
-[Use example](/docs/examples/git/).
-
 ---
 
 ## Current path (.stdized)
@@ -53,5 +51,3 @@ Standardized searches for definitions of objects stored in a directory called .s
         │   └── 000-hook2.sh
         └── templates
             └── your_templates_here.txt
-
-[Use example](/docs/examples/terraform/).
