@@ -43,14 +43,14 @@ Standardized searches for definitions of objects stored in a directory called .s
     │   ├── config.yaml
     │   ├── postcreate
     │   │   ├── 000-hook.sh
-    │   │   └── 000-hook2.sh
+    │   │   └── 001-hook.sh
     │   └── templates
     │       └── your_templates_here.txt
     └── obj12
         ├── config.yaml
         ├── postcreate
         │   ├── 000-hook.sh
-        │   └── 000-hook2.sh
+        │   └── 001-hook.sh
         └── templates
             └── your_templates_here.txt
 
