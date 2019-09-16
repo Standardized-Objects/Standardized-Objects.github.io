@@ -15,14 +15,14 @@ nav_order: 1
 Create a GIT repository to store your objects.
 
     git_root
-    ├── obj1
+    ├── obj01
     │   ├── config.yaml
     │   ├── postcreate
     │   │   ├── 000-hook.sh
     │   │   └── 001-hook.sh
     │   └── templates
     │       └── your_templates_here.txt
-    └── obj12
+    └── obj02
         ├── config.yaml
         ├── postcreate
         │   ├── 000-hook.sh
@@ -39,14 +39,14 @@ Create a GIT repository to store your objects.
 Standardized searches for definitions of objects stored in a directory called .stdized in current path.
 
     .stdized
-    ├── obj1
+    ├── obj01
     │   ├── config.yaml
     │   ├── postcreate
     │   │   ├── 000-hook.sh
     │   │   └── 001-hook.sh
     │   └── templates
     │       └── your_templates_here.txt
-    └── obj12
+    └── obj02
         ├── config.yaml
         ├── postcreate
         │   ├── 000-hook.sh
