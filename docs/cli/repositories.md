@@ -29,3 +29,9 @@ nav_order: 2
 ## Update repositories
 
     standardized repo update
+
+---
+
+## List available repositories
+
+    standardized repo list
