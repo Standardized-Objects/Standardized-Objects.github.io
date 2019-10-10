@@ -30,4 +30,4 @@ Get the latest precompiled binaries from the [download page](https://github.com/
 ### Build & Install in $GOBIN
 
     cd $GOPATH/src/standardized
-    go install
+    go install -ldflags="-s -w"
